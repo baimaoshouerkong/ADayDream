@@ -1,0 +1,10 @@
+# Ren'py
+
+*.rpy[bc]
+*.bak
+**/tmp/*
+**/log.txt
+**/game/saves/*
+**/errors.txt
+**/traceback.txt
+*-dists/*
